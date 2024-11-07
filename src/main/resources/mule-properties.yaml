@@ -1,0 +1,4 @@
+google:
+  privateKey: ""
+  clientEmail: ""
+  scope: "https://www.googleapis.com/auth/drive.readonly"
